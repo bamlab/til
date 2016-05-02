@@ -4,5 +4,6 @@ A collection of small tips and tricks.
 
 ## Categories
 
-* git
-* shell
+* [git](git)
+* [shell](shell)
+* [mac](mac)
